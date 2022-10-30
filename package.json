@@ -1,16 +1,16 @@
 {
-"name": "majestictreasures",
-"theme": "majestic treasures",
-"version": "2.4.4",
-"description": "majestic treasures สมัครสมาชิกเว็บบาคาร่าเว็บตรง ระบบออโต้ รับเครดิตฟรี",
-"keywords": [
-"majestic treasures",
-"majestic treasures เครดิตฟรี",
-"majestic treasures ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/majestictreasures",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "majestictreasures",
+  "theme": "majestic treasures",
+  "version": "2.5.0",
+  "description": "majestic treasures สมัครสมาชิกเว็บบาคาร่าเว็บตรง ระบบออโต้ รับเครดิตฟรี",
+  "keywords": [
+    "majestic treasures",
+    "majestic treasures เครดิตฟรี",
+    "majestic treasures ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/majestictreasures",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
